@@ -17,7 +17,7 @@
 		CFCF04CB2E34E2870013D5CB /* FaceAISDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FaceAISDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFCF04D92E34E48D0013D5CB /* FaceAISDK.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = FaceAISDK.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		CFCF04DA2E34E48D0013D5CB /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		CFCF04DB2E34E48D0013D5CB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CFCF04DB2E34E48D0013D5CB /* About.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = About.md; sourceTree = "<group>"; };
 		CFCF04DC2E34E48D0013D5CB /* subModel.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = subModel.bundle; sourceTree = "<group>"; };
 		CFCF053D2E352F2B0013D5CB /* FaceAISDK.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = FaceAISDK.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -59,7 +59,7 @@
 				CFCF04D82E34E48D0013D5CB /* BuildOut */,
 				CFCF04D92E34E48D0013D5CB /* FaceAISDK.podspec */,
 				CFCF04DA2E34E48D0013D5CB /* LICENSE */,
-				CFCF04DB2E34E48D0013D5CB /* README.md */,
+				CFCF04DB2E34E48D0013D5CB /* About.md */,
 				CFCF04DD2E34E48D0013D5CB /* Resources */,
 				292A6A27D7D0F86086CC2B19 /* Pods */,
 				88A1AB462A782A57AF373BE1 /* Frameworks */,
